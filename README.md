@@ -1,1 +1,1 @@
-# BOM_translation
+# Scripture_translation
